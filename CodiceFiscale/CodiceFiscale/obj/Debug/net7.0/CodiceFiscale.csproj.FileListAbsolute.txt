@@ -1,0 +1,14 @@
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\bin\Debug\net7.0\CodiceFiscale.exe
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\bin\Debug\net7.0\CodiceFiscale.deps.json
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\bin\Debug\net7.0\CodiceFiscale.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\bin\Debug\net7.0\CodiceFiscale.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\bin\Debug\net7.0\CodiceFiscale.pdb
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\refint\CodiceFiscale.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.pdb
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\CodiceFiscale.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\codice-fiscale\CodiceFiscale\CodiceFiscale\obj\Debug\net7.0\ref\CodiceFiscale.dll
